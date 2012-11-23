@@ -1,0 +1,18 @@
+<stack>
+    <description brief="A stack for interacting with Lego NXT">
+    NXT stack for ROS added by Supinfo Robotic Laboratory.
+    see stack-nxt for more information. 
+    </description>
+    <author>
+        Supinfo Grenoble Robotic Laboratory
+    </author>
+    <license>BSD</license>
+    <review status="experimental" notes=""/>
+    <url>http://ros.org/wiki/nxt</url>
+    <depend stack="common_msgs"/>                   <!-- nav_msgs, geometry_msgs, sensor_msgs -->
+    <depend stack="geometry"/>                      <!-- tf, tf_conversions -->
+    <depend stack="orocos_kinematics_dynamics"/>    <!-- kdl -->
+    <depend stack="ros"/>
+    <depend stack="ros_comm"/>                      <!-- std_msgs, rospy, roscpp -->
+    <depend stack="visualization"/>                 <!-- rviz -->
+</stack>

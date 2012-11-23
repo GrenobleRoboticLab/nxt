@@ -1,0 +1,14 @@
+<package>
+  <description brief="nxt_lxf2urdf">
+
+     nxt_lxf2urdf
+
+  </description>
+  <author>Xavier</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/nxt_lxf2urdf</url>
+
+</package>
+
+

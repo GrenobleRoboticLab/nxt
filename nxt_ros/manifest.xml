@@ -1,0 +1,19 @@
+<package>
+  <description brief="nxt_ros">
+
+     nxt_ros
+
+  </description>
+  <author>Xavier</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/nxt_ros</url>
+  <depend package="rospy"/>
+  <depend package="nxt_python" />
+  <depend package="kdl"/>
+  <depend package="sensor_msgs"/>
+  <depend package="nxt_msgs" />
+
+</package>
+
+

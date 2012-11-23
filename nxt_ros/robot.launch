@@ -1,0 +1,5 @@
+<launch>
+    <node pkg="nxt_ros" type="nxt_ros.py" name="nxt_ros" output="screen" respawn="true" >
+         <rosparam command="load" file="robot.yaml" />
+    </node>
+</launch>

@@ -1,0 +1,14 @@
+<package>
+  <description brief="nxt_python">
+
+     nxt_python
+
+  </description>
+  <author>Xavier</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/nxt_python</url>
+
+</package>
+
+

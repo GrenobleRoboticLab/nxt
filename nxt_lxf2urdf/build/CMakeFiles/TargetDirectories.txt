@@ -1,0 +1,15 @@
+/home/xavier/ros_workspace/nxt/nxt_lxf2urdf/build/CMakeFiles/ROSBUILD_genmsg_cpp.dir
+/home/xavier/ros_workspace/nxt/nxt_lxf2urdf/build/CMakeFiles/ROSBUILD_genmsg_lisp.dir
+/home/xavier/ros_workspace/nxt/nxt_lxf2urdf/build/CMakeFiles/ROSBUILD_gensrv_cpp.dir
+/home/xavier/ros_workspace/nxt/nxt_lxf2urdf/build/CMakeFiles/ROSBUILD_gensrv_lisp.dir
+/home/xavier/ros_workspace/nxt/nxt_lxf2urdf/build/CMakeFiles/clean-test-results.dir
+/home/xavier/ros_workspace/nxt/nxt_lxf2urdf/build/CMakeFiles/rosbuild_precompile.dir
+/home/xavier/ros_workspace/nxt/nxt_lxf2urdf/build/CMakeFiles/rosbuild_premsgsrvgen.dir
+/home/xavier/ros_workspace/nxt/nxt_lxf2urdf/build/CMakeFiles/rospack_genmsg.dir
+/home/xavier/ros_workspace/nxt/nxt_lxf2urdf/build/CMakeFiles/rospack_genmsg_libexe.dir
+/home/xavier/ros_workspace/nxt/nxt_lxf2urdf/build/CMakeFiles/rospack_gensrv.dir
+/home/xavier/ros_workspace/nxt/nxt_lxf2urdf/build/CMakeFiles/test.dir
+/home/xavier/ros_workspace/nxt/nxt_lxf2urdf/build/CMakeFiles/test-future.dir
+/home/xavier/ros_workspace/nxt/nxt_lxf2urdf/build/CMakeFiles/test-results.dir
+/home/xavier/ros_workspace/nxt/nxt_lxf2urdf/build/CMakeFiles/test-results-run.dir
+/home/xavier/ros_workspace/nxt/nxt_lxf2urdf/build/CMakeFiles/tests.dir
